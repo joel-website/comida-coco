@@ -1,0 +1,15 @@
+{
+    "carne" : 0.75,
+    "vegetales" : 0.25,
+    "organos" : 0.15,
+    "muscular": 0.5,
+    "hueso" : 0.15,
+    "pansen" : 0.2,
+    "frutas" : 0.2,
+    "verduras" : 0.8,
+    "higado": 0.33,
+    "rinion" : 0.23,
+    "corazon" : 0.23,
+    "bazo" : 0.21
+
+}
